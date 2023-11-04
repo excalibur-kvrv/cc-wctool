@@ -2,3 +2,7 @@
 
 Specifications of problem provided in challenge link below.
 [Challenge Link](https://codingchallenges.fyi/challenges/challenge-wc)
+
+Usage:-
+
+`./wc.py -h`
